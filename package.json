@@ -1,0 +1,46 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "axios": "^1.7.7",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^1.0.0",
+        "sass": "^1.56.1",
+        "vite": "^5.2.6"
+    },
+    "dependencies": {
+        "@angular/compiler": "^17.3.7",
+        "@angular/platform-browser-dynamic": "^17.3.7",
+        "body-parser": "^1.20.2",
+        "bootstrap-icons": "^1.11.3",
+        "chart.js": "^4.4.2",
+        "date-fns": "^4.1.0",
+        "dayjs": "^1.11.11",
+        "express": "^4.19.2",
+        "html-pdf": "^3.0.1",
+        "html2pdf.js": "^0.9.3",
+        "install": "^0.13.0",
+        "ionicons": "^7.3.0",
+        "jquery": "^3.7.1",
+        "jspdf": "^2.5.2",
+        "jspdf-autotable": "^3.8.3",
+        "mysql": "^2.18.1",
+        "npm": "^10.5.0",
+        "pdfmake": "^0.2.10",
+        "primeicons": "^7.0.0",
+        "primeng": "^17.16.0",
+        "primevue": "^3.53.0",
+        "qrcode": "^1.5.4",
+        "sweetalert2": "^11.14.1",
+        "vue": "^3.4.21",
+        "vue-draggable-next": "^2.2.1",
+        "vuedraggable": "^2.24.3",
+        "xlsx": "^0.18.5"
+    }
+}
