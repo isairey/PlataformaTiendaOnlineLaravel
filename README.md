@@ -171,7 +171,7 @@ Laravel utiliza el patrón de arquitectura:
 # 📂 Estructura del proyecto
 
 ```bash
-LaravelApp/
+PlataformaTiendaOnlineLaravel/
 │
 ├── app/                    # Lógica principal
 ├── bootstrap/              # Configuración de arranque
@@ -209,7 +209,7 @@ LaravelApp/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/laravel-app.git
+git clone https://github.com/isairey/PlataformaTiendaOnlineLaravel.git
 ```
 
 ---
@@ -217,7 +217,7 @@ git clone https://github.com/usuario/laravel-app.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd laravel-app
+cd PlataformaTiendaOnlineLaravel
 ```
 
 ---
